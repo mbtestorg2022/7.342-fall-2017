@@ -53,20 +53,201 @@ This course is graded pass / fail. As the course is discussion-based, attendance
 Calendar
 --------
 
-| WEEK # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Class introduction | &nbsp; |
-| 2 | Potency and pluripotent stem cells | &nbsp; |
-| 3 | Signatures and mechanisms of pluripotency: Transcriptional networks | &nbsp; |
-| 4 | Signatures and mechanisms of pluripotency: Bivalent chromatin domains | &nbsp; |
-| 5 | Germ cell identity | &nbsp; |
-| 6 | Reprogramming of germ cells and stem cells | Submit proposed paper for writing assignment to instructors |
-| 7 | Reprogramming soma by pioneer transcription factors | &nbsp; |
-| 8 | Defining hematopoietic identities: Part 1 | Written Assignment due |
-| 9 | Defining hematopoietic identities: Part 2 | &nbsp; |
-| 10 | Regulatory mechanisms for immune cell identity: Chromatin and transcription factors | &nbsp; |
-| 11 | Regulatory mechanisms for immune cell identity: Cell signaling | &nbsp; |
-| 12 | Disorders of cell identity: The reproductive tract and germ cell identity | &nbsp; |
-| ﻿13 | Disorders of cell identity: Hematopoiesis | Submit proposed paper for final oral presentation to instructors |
-| 14 | Cellular reprogramming and therapeutics | &nbsp; |
-| 15 | Oral presentations and evaluations | Oral Presentations due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Class introduction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Potency and pluripotent stem cells
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Signatures and mechanisms of pluripotency: Transcriptional networks
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Signatures and mechanisms of pluripotency: Bivalent chromatin domains
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Germ cell identity
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Reprogramming of germ cells and stem cells
+{{< tdclose >}}
+{{< tdopen >}}
+Submit proposed paper for writing assignment to instructors
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Reprogramming soma by pioneer transcription factors
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Defining hematopoietic identities: Part 1
+{{< tdclose >}}
+{{< tdopen >}}
+Written Assignment due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Defining hematopoietic identities: Part 2
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Regulatory mechanisms for immune cell identity: Chromatin and transcription factors
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Regulatory mechanisms for immune cell identity: Cell signaling
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+﻿12
+{{< tdclose >}}
+{{< tdopen >}}
+Disorders of cell identity: The reproductive tract and germ cell identity
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+﻿﻿13
+{{< tdclose >}}
+{{< tdopen >}}
+Disorders of cell identity: Hematopoiesis
+{{< tdclose >}}
+{{< tdopen >}}
+Submit proposed paper for final oral presentation to instructors
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Cellular reprogramming and therapeutics
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Oral presentations and evaluations
+{{< tdclose >}}
+{{< tdopen >}}
+Oral Presentations due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
